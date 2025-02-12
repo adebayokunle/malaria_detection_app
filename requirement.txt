@@ -1,6 +1,8 @@
 streamlit
 numpy
-tensorflow
-scikit-learn
-Pillow
 joblib
+scikit-learn
+tensorflow
+Pillow
+huggingface_hub  # If using Hugging Face for model
+
