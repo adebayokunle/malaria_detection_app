@@ -1,8 +1,0 @@
-streamlit
-numpy
-joblib
-scikit-learn
-tensorflow
-Pillow
-huggingface_hub  # If using Hugging Face for model
-
