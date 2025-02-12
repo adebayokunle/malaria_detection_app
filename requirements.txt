@@ -1,0 +1,8 @@
+streamlit
+numpy
+tensorflow
+scikit-learn==1.5.1
+Pillow
+joblib
+huggingface_hub  # If loading the model from Hugging Face
+
